@@ -1,0 +1,5 @@
+Jestius,knight,10,46450,26,13,50,bow,jacket,great,src/main/java/packages/images/default-image.png
+Alextion,elf,10,46450,20,17,55,knife,curass,pot,src/main/java/packages/images/default-image.png
+Thor,knight,9,37800,18,15,50,sword,leather,nasal,src/main/java/packages/images/default-image.png
+Kratos,warrior,7,23200,21,15,52,bow,jacket,great,src/main/java/packages/images/default-image.png
+Hunterman,hunter,2,2450,15,17,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
